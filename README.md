@@ -11,3 +11,11 @@ Installation
 1. All you need is the .crx file. Download that to your computer.
 2. Open chrome://extensions/ in Google Chrome.
 3. Drag the .crx file onto that page.
+
+
+Credits
+-------
+
+This extension was built by Geoff Thibeau using the example extension documentation provided by Google: http://developer.chrome.com/extensions/getstarted.html
+
+The IP address provider (High Earth Orbit) was found by researching Apple menu applets: http://www.yellosoft.us/ipmenulet
