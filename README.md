@@ -10,7 +10,10 @@ Installation
 
 1. All you need is the .crx file. Download that to your computer.
 2. Open chrome://extensions/ in Google Chrome.
-3. Drag the .crx file onto that page.
+3. Drag the .crx file onto the extensions page.
+
+###!important###
+You must drag the file onto chrome://extensions/. Dragging onto some other page, or double-clicking, will result in a warning from Chrome.
 
 
 Credits
