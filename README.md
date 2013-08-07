@@ -3,7 +3,7 @@ crx-ip
 
 Chrome Extension for returning your public IP address.
 
-Uses http://highearthorbit.com/service/myip.php. You could easily bookmark that URL, but I hide my bookmarks bar and wanted take a stab at Chrome Extensions.
+Uses http://www.whatsmyip.us/showipsimple.php. You could easily bookmark that URL, but I hide my bookmarks bar and wanted take a stab at Chrome Extensions.
 
 Installation
 ------------
@@ -21,4 +21,4 @@ Credits
 
 This extension was built by Geoff Thibeau using the example extension documentation provided by Google: http://developer.chrome.com/extensions/getstarted.html
 
-The IP address provider (High Earth Orbit) was found by researching Apple menu applets: http://www.yellosoft.us/ipmenulet
+The IP address provider is http://whatsmyip.us.
