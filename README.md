@@ -3,7 +3,7 @@ crx-ip
 
 Chrome/Opera Extension for returning your public IP address.
 
-Uses http://www.whatsmyip.us/showipsimple.php. You could easily bookmark that URL, but I hide my bookmarks bar and wanted take a stab at Chrome Extensions.
+Uses http://icanhazip.com. You could easily bookmark that URL, but I hide my bookmarks bar and wanted take a stab at Chrome Extensions.
 
 *Now works with Opera 15+.*
 
@@ -23,4 +23,4 @@ Credits
 
 This extension was built by Geoff Thibeau using the example extension documentation provided by Google: http://developer.chrome.com/extensions/getstarted.html
 
-The IP address provider is http://whatsmyip.us.
+The IP address provider is http://icanhazip.com.
