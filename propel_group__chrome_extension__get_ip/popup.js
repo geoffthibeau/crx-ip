@@ -1,5 +1,5 @@
 var propel_group__IP = {
-  the_url_: 'http://www.whatsmyip.us/showipsimple.php',
+  the_url_: 'http://icanhazip.com',
 
   /**
    * Sends an XHR GET request to grab the IP address. The
@@ -24,7 +24,6 @@ var propel_group__IP = {
    */
   get_IP_text_: function (e) {
     var the_IP_ = e.target.responseText;
-    the_IP_ = the_IP_.substring(the_IP_.indexOf('"')+1,the_IP_.lastIndexOf('"'));
     var p = document.createElement('p');
     p.appendChild(document.createTextNode(the_IP_));
     document.body.appendChild(p);

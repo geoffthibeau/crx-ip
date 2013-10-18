@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "IP",
-  "description": "This extension grabs your public IP address from http://www.whatsmyip.us/showipsimple.php",
-  "version": "1.1",
+  "description": "This extension grabs your public IP address from http://icanhazip.com",
+  "version": "1.2",
 
   "browser_action": {
     "default_title": "Public IP",
@@ -11,6 +11,6 @@
     "default_popup": "popup.html"
   },
   "permissions": [
-    "http://www.whatsmyip.us/"
+    "http://icanhazip.com/"
   ]
 }
